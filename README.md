@@ -4,16 +4,27 @@
 ## Primeros pasos 
 Deben ser crear una Maquina virtual desde nuetro isard vdi, una vez hecho esto:
 Pondremos comandos en la terminal, para configurar nuetra instalacion de moodle, debes hacerlo en orden...
+
+PONER FOTOS
+
+PONER FOTOS
+
+PONER FOTOS
+
 PONER FOTOS
 PONER FOTOS
+
+
 PONER FOTOS
+
 PONER FOTOS
+
 PONER FOTOS
+
 PONER FOTOS
+
 PONER FOTOS
-PONER FOTOS
-PONER FOTOS
-PONER FOTOS
+
 PONER FOTOS
 
 Cuando esta la instalacion creada saldra el moodle y lo haras a tu gusto es decir, correo deseado nombre deseado...
