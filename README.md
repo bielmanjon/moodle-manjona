@@ -31,6 +31,8 @@ Cuando esta la instalacion creada saldra el moodle y lo haras a tu gusto es deci
 ![imagen](https://github.com/user-attachments/assets/188465a2-c500-4113-8b35-da45b5d17923)
 Como se puede ver,nombre,correo,contraseña...
 
-# Debe quedar algo asi una vez que editas la foto, mi perfil queda asi con una foto mi infromacion, mi correo etc...
+## Debe quedar algo asi una vez que editas la foto, perfil quedaria asi:
 
 ![Captura desde 2025-03-14 13-54-00](https://github.com/user-attachments/assets/ab63a519-4dcb-4706-abb1-ff4dad903078)
+
+Con mi foto,mi correo,mi nombre deseado...
