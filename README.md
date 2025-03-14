@@ -37,3 +37,10 @@ Como se puede ver,nombre,correo,contraseña...
 ![Captura desde 2025-03-14 13-54-00](https://github.com/user-attachments/assets/ab63a519-4dcb-4706-abb1-ff4dad903078)
 
 Con mi foto,mi correo,mi nombre deseado...
+
+## Crear cursos 
+![Captura desde 2025-03-14 14-32-45](https://github.com/user-attachments/assets/4ea8bc62-c24f-4d8a-a379-d4773a7d4ca5)
+![Captura desde 2025-03-14 14-33-18](https://github.com/user-attachments/assets/c0f150f0-a758-41df-8bf4-ce418b7f663c)
+
+Aqui tengo mis dos cursos 
+
