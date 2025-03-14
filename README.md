@@ -19,6 +19,9 @@ Pondremos comandos en la terminal, para configurar nuetra instalacion de moodle,
 
 b) Canvia el nom del teu lloc (tant llarg com curt) i fes que la pàgina principal no mostri res pels usuaris que no estiguin autentificats. Això es pot fer anant a l'opció Administració del lloc > Primera plana > Paràmetres
 
+![Captura desde 2025-03-14 14-25-35](https://github.com/user-attachments/assets/baf69adc-6b3c-40cc-bf44-36729f34fbfe)
+
+
 c) Comprova que la franja horària del teu lloc sigui la correcta. Això es pot fer anant a l'opció Administració del lloc > Ubicació > Paràmetres.
 
 NOTA: Aquesta configuració és important, per exemple, per les hores límit d'entregues d'exercicis
