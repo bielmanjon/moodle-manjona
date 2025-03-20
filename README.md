@@ -17,7 +17,10 @@ Pondremos comandos en la terminal, para configurar nuetra instalacion de moodle,
 ![imagen](https://github.com/user-attachments/assets/c37ab67a-b852-4ee1-b731-17c248058666)
 
 
-b) Canvia el nom del teu lloc (tant llarg com curt) i fes que la pàgina principal no mostri res pels usuaris que no estiguin autentificats. Això es pot fer anant a l'opció Administració del lloc > Primera plana > Paràmetres
+## b) Canvia el nom del teu lloc
+
+![Captura de pantalla de 2025-03-20 13-52-58](https://github.com/user-attachments/assets/48fb5028-e8f4-4f31-9522-ac5ec4d227b6)
+
 
 ![Captura desde 2025-03-14 14-25-35](https://github.com/user-attachments/assets/baf69adc-6b3c-40cc-bf44-36729f34fbfe)
 
