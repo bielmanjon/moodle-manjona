@@ -43,17 +43,21 @@ Aqui he puesto el nombre de mi moodle (moodle manjon)
 
 ### Yo he puesto Europa,Madrid pero editable...
 
+## d) Canvia l'idioma del teu lloc.
 
-d) Canvia l'idioma del teu lloc. Això es pot fer anant a l'opció Administració del lloc > Idioma > Paràmetres i tenint en compte tant el checkbox Detecció automàtica de l'idioma com el desplegable Idioma per defecte.
-
-Cuando esta la instalacion creada saldra el moodle y lo haras a tu gusto es decir, correo deseado nombre deseado...
-![imagen](https://github.com/user-attachments/assets/188465a2-c500-4113-8b35-da45b5d17923)
-Como se puede ver,nombre,correo,contraseña...
+![Captura de pantalla de 2025-03-20 14-22-04](https://github.com/user-attachments/assets/9b27d550-7e98-4898-bd77-2bfc678a12c2)
 
 
-## Crear cursos 
+## e) Canvia la política de contrasenyes
+
+![Captura de pantalla de 2025-03-20 14-19-43](https://github.com/user-attachments/assets/c1dbd52d-6e59-4f6c-a226-75176906a3f5)
+
+
+## 2. Crea els següents cursos:
+
 ![Captura desde 2025-03-14 14-32-45](https://github.com/user-attachments/assets/4ea8bc62-c24f-4d8a-a379-d4773a7d4ca5)
 ![Captura desde 2025-03-14 14-33-18](https://github.com/user-attachments/assets/c0f150f0-a758-41df-8bf4-ce418b7f663c)
 
 Aqui tengo mis dos cursos 
 
+## 3. Vés a algun dels cursos creats al punt anterior (simplement seleccionant-lo dins del quadre Navegació) i fes que contingui en algun del seus temes algun tipus de material (un document PDF, per exemple), canvia el títol d'algun tema i, en general, investiga les possibilitats que et dóna el botó Activar edició en un curs.
