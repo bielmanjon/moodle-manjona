@@ -21,6 +21,8 @@ Pondremos comandos en la terminal, para configurar nuetra instalacion de moodle,
 
 ![Captura de pantalla de 2025-03-20 13-52-58](https://github.com/user-attachments/assets/48fb5028-e8f4-4f31-9522-ac5ec4d227b6)
 
+Aqui he puesto el nombre de mi moodle (moodle manjon)
+
 
 ![Captura desde 2025-03-14 14-25-35](https://github.com/user-attachments/assets/baf69adc-6b3c-40cc-bf44-36729f34fbfe)
 
