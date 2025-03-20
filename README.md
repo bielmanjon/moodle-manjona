@@ -27,9 +27,11 @@ Aqui he puesto el nombre de mi moodle (moodle manjon)
 ![Captura desde 2025-03-14 14-25-35](https://github.com/user-attachments/assets/baf69adc-6b3c-40cc-bf44-36729f34fbfe)
 
 
-c) Comprova que la franja horària del teu lloc sigui la correcta. Això es pot fer anant a l'opció Administració del lloc > Ubicació > Paràmetres.
+## c) Franja horària.
 
-NOTA: Aquesta configuració és important, per exemple, per les hores límit d'entregues d'exercicis
+![Captura de pantalla de 2025-03-20 13-59-24](https://github.com/user-attachments/assets/4845621d-031a-4e23-a002-c55fcc30ba0a)
+
+Yo he puesto Europa,Madrid pero editable...
 
 d) Canvia l'idioma del teu lloc. Això es pot fer anant a l'opció Administració del lloc > Idioma > Paràmetres i tenint en compte tant el checkbox Detecció automàtica de l'idioma com el desplegable Idioma per defecte.
 
