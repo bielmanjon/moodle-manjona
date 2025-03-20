@@ -32,7 +32,6 @@ Con mi foto,mi correo,mi nombre deseado...
 
 Aqui he puesto el nombre de mi moodle (moodle manjon)
 
-![Captura de pantalla de 2025-03-20 14-10-00](https://github.com/user-attachments/assets/4b600f11-0d49-4977-9987-f4357ac5375e)
 
 
 ![Captura desde 2025-03-14 14-25-35](https://github.com/user-attachments/assets/baf69adc-6b3c-40cc-bf44-36729f34fbfe)
