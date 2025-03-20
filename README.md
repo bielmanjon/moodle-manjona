@@ -27,6 +27,9 @@ Con mi foto,mi correo,mi nombre deseado...
 
 ![Captura de pantalla de 2025-03-20 13-52-58](https://github.com/user-attachments/assets/48fb5028-e8f4-4f31-9522-ac5ec4d227b6)
 
+
+![Captura de pantalla de 2025-03-20 14-14-31](https://github.com/user-attachments/assets/b2b34a28-a98e-4b58-bbc7-c72c638b9016)
+
 Aqui he puesto el nombre de mi moodle (moodle manjon)
 
 ![Captura de pantalla de 2025-03-20 14-10-00](https://github.com/user-attachments/assets/4b600f11-0d49-4977-9987-f4357ac5375e)
