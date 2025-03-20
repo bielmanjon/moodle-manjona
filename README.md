@@ -16,6 +16,12 @@ Pondremos comandos en la terminal, para configurar nuetra instalacion de moodle,
 ![Captura desde 2025-03-14 14-12-30](https://github.com/user-attachments/assets/6d595ff1-8554-4da4-815a-0cd2ba54972f)
 ![imagen](https://github.com/user-attachments/assets/c37ab67a-b852-4ee1-b731-17c248058666)
 
+## Debe quedar algo asi una vez que editas la foto, perfil quedaria asi:
+
+![Captura desde 2025-03-14 13-54-00](https://github.com/user-attachments/assets/ab63a519-4dcb-4706-abb1-ff4dad903078)
+
+Con mi foto,mi correo,mi nombre deseado...
+
 
 ## b) Canvia el nom del teu lloc
 
@@ -31,7 +37,8 @@ Aqui he puesto el nombre de mi moodle (moodle manjon)
 
 ![Captura de pantalla de 2025-03-20 13-59-24](https://github.com/user-attachments/assets/4845621d-031a-4e23-a002-c55fcc30ba0a)
 
-Yo he puesto Europa,Madrid pero editable...
+### Yo he puesto Europa,Madrid pero editable...
+
 
 d) Canvia l'idioma del teu lloc. Això es pot fer anant a l'opció Administració del lloc > Idioma > Paràmetres i tenint en compte tant el checkbox Detecció automàtica de l'idioma com el desplegable Idioma per defecte.
 
@@ -39,11 +46,6 @@ Cuando esta la instalacion creada saldra el moodle y lo haras a tu gusto es deci
 ![imagen](https://github.com/user-attachments/assets/188465a2-c500-4113-8b35-da45b5d17923)
 Como se puede ver,nombre,correo,contraseña...
 
-## Debe quedar algo asi una vez que editas la foto, perfil quedaria asi:
-
-![Captura desde 2025-03-14 13-54-00](https://github.com/user-attachments/assets/ab63a519-4dcb-4706-abb1-ff4dad903078)
-
-Con mi foto,mi correo,mi nombre deseado...
 
 ## Crear cursos 
 ![Captura desde 2025-03-14 14-32-45](https://github.com/user-attachments/assets/4ea8bc62-c24f-4d8a-a379-d4773a7d4ca5)
