@@ -123,4 +123,5 @@ Seleccionamos los dos alumnos...
 La opcion borrar
 
 ![Captura de pantalla de 2025-03-21 13-45-30](https://github.com/user-attachments/assets/4001b2e0-fa44-42fe-aafe-5295653dc7fc)
+
 Tendriamos dos alumnos borrados.
