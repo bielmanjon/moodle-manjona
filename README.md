@@ -91,6 +91,15 @@ Asi quedaria
 Aqui he creado a uno mas... 
 
 ![Captura de pantalla de 2025-03-21 12-57-24](https://github.com/user-attachments/assets/eef87462-462b-4717-8fe3-54e36eabf15b)
+En proceso...
+![Captura de pantalla de 2025-03-21 13-22-07](https://github.com/user-attachments/assets/6f97b021-362d-4f77-8bd9-43ccf70f9509)
+En proceso...
+
+![Captura de pantalla de 2025-03-21 13-22-46](https://github.com/user-attachments/assets/8e4a4a4a-d3be-4144-9268-cea4630f658c)
+En proceso...
+
+![Captura de pantalla de 2025-03-21 13-24-13](https://github.com/user-attachments/assets/bbf3ebf4-4fb1-4179-a333-6fd4dfba2758)
+Asi quedaria!
 
 NOTA: Per saber el contingut que hauria de tenir aquest fitxer, consulteu més abaix a la secció Usuaris.
 
