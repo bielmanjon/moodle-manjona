@@ -128,6 +128,8 @@ Tendriamos dos alumnos borrados.
 
 ## 5. Ara matricula aquests usuaris als diferents cursos.
 
+## a) Fes que al curs A no hi hagi possibilitat d'inscripció
+
 ![Captura de pantalla de 2025-03-21 13-54-50](https://github.com/user-attachments/assets/0490792b-390d-4548-8b1c-f73f10bc8cfc)
 
 Cambiariamos un apartado asi:
@@ -135,3 +137,11 @@ Cambiariamos un apartado asi:
 ![Captura de pantalla de 2025-03-21 13-55-19](https://github.com/user-attachments/assets/21f28237-5af9-42b1-9f7c-2ae84c1f18e4)
 
 Y ya estaria.
+
+## b) Assigna com a professor del curs B l'usuari "Bob"
+
+Aqui inscribo a Bob en mi curso, y lo asigno como docente eminente.
+
+![Captura de pantalla de 2025-03-21 14-05-27](https://github.com/user-attachments/assets/d912ff65-3c33-4ff6-8726-d3077e10cb5f)
+
+![Captura de pantalla de 2025-03-21 14-05-42](https://github.com/user-attachments/assets/d07c59fd-6b23-440e-bc66-7336a43a7b48)
