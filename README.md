@@ -125,3 +125,13 @@ La opcion borrar
 ![Captura de pantalla de 2025-03-21 13-45-30](https://github.com/user-attachments/assets/4001b2e0-fa44-42fe-aafe-5295653dc7fc)
 
 Tendriamos dos alumnos borrados.
+
+## 5. Ara matricula aquests usuaris als diferents cursos.
+
+![Captura de pantalla de 2025-03-21 13-54-50](https://github.com/user-attachments/assets/0490792b-390d-4548-8b1c-f73f10bc8cfc)
+
+Cambiariamos un apartado asi:
+
+![Captura de pantalla de 2025-03-21 13-54-50](https://github.com/user-attachments/assets/f52964c2-1c74-42e5-a506-2888a874c823)
+
+Y ya estaria.
