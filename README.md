@@ -132,6 +132,6 @@ Tendriamos dos alumnos borrados.
 
 Cambiariamos un apartado asi:
 
-![Captura de pantalla de 2025-03-21 13-54-50](https://github.com/user-attachments/assets/f52964c2-1c74-42e5-a506-2888a874c823)
+![Captura de pantalla de 2025-03-21 13-55-19](https://github.com/user-attachments/assets/21f28237-5af9-42b1-9f7c-2ae84c1f18e4)
 
 Y ya estaria.
