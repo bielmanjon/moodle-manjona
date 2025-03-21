@@ -61,3 +61,5 @@ Aqui he puesto el nombre de mi moodle (moodle manjon)
 Aqui tengo mis dos cursos 
 
 ## 3. Vés a algun dels cursos creats al punt anterior (simplement seleccionant-lo dins del quadre Navegació) i fes que contingui en algun del seus temes algun tipus de material (un document PDF, per exemple), canvia el títol d'algun tema i, en general, investiga les possibilitats que et dóna el botó Activar edició en un curs.
+
+![Captura de pantalla de 2025-03-21 10-19-13](https://github.com/user-attachments/assets/6757c6b8-bc84-4c2c-9a8d-9fd878385095)
