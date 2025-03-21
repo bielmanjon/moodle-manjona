@@ -64,6 +64,13 @@ Aqui tengo mis dos cursos
 
 ![Captura de pantalla de 2025-03-21 10-05-42](https://github.com/user-attachments/assets/c708b981-320a-4285-a9b1-73140c2c4ff2)
 
+Aqui lo estaba crenado el primer Tema
+
 ![Captura de pantalla de 2025-03-21 10-19-13](https://github.com/user-attachments/assets/6757c6b8-bc84-4c2c-9a8d-9fd878385095)
 
+Aqui podeis ver como queda
+
 ![Captura de pantalla de 2025-03-21 12-46-34](https://github.com/user-attachments/assets/090442dc-4540-4944-abc3-63e956a3d3e1)
+
+Asi me ha quedado una vez que he creado 3 temas uno de ellos con foro (3ro)
+
