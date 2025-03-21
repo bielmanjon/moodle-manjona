@@ -145,3 +145,40 @@ Aqui inscribo a Bob en mi curso, y lo asigno como docente eminente.
 ![Captura de pantalla de 2025-03-21 14-05-27](https://github.com/user-attachments/assets/d912ff65-3c33-4ff6-8726-d3077e10cb5f)
 
 ![Captura de pantalla de 2025-03-21 14-05-42](https://github.com/user-attachments/assets/d07c59fd-6b23-440e-bc66-7336a43a7b48)
+
+## c) Comprueva que curso A y B este bien 
+
+ ![Captura de pantalla de 2025-03-21 14-10-24](https://github.com/user-attachments/assets/cf34cf6a-8bbc-41c4-8be8-ea6e8fb6006a)
+
+ Aqui en mis cursos sale solo el B ya que requiere el inicio de mi sesion para que me salga, en cambio...
+ 
+![Captura de pantalla de 2025-03-21 14-11-46](https://github.com/user-attachments/assets/08868280-dcce-4bf5-99da-de6b2cbd00b2)
+
+Aqui podemos ver que en General salen los dos cursos. 
+
+## 6. Canvia l'aparença estètica del teu lloc. 
+
+![Captura de pantalla de 2025-03-21 14-16-06](https://github.com/user-attachments/assets/ffb622b9-c84a-42cb-8d35-b0fe7e11708b)
+Teniamos este tema:
+
+![Captura de pantalla de 2025-03-21 14-16-12](https://github.com/user-attachments/assets/abf656b7-7a17-44fb-a1c3-1162ee229ffd)
+
+Pondremos este.
+
+## 7. Assigna un professor i matricula alumnes al curs A.
+
+Iriamos al curso A y en la seleccion de alumnos le dariamos de professor.
+
+![Captura de pantalla de 2025-03-21 14-18-20](https://github.com/user-attachments/assets/ce49aec0-de9e-452c-b4a4-155585d82824)
+
+A bob. 
+
+![Captura de pantalla de 2025-03-21 14-19-12](https://github.com/user-attachments/assets/7b2fc934-3d1d-4719-8550-a2ab2593f450)
+
+
+
+
+
+
+
+
