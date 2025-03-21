@@ -74,3 +74,27 @@ Aqui podeis ver como queda
 
 Asi me ha quedado una vez que he creado 3 temas uno de ellos con foro (3ro)
 
+## 4. Creació d’usuaris i alumnes.
+
+## a) Crea manualment un usuari anomenat Bob 
+
+Aqui estoy creando...
+
+![Captura de pantalla de 2025-03-21 12-55-16](https://github.com/user-attachments/assets/f8732d3c-ce6b-417e-8b53-d8759c0aa179)
+
+Asi quedaria  
+
+![Captura de pantalla de 2025-03-21 12-56-29](https://github.com/user-attachments/assets/0352cc63-9808-4fe6-a62b-acb554e7bb17)
+
+## b) Genera deu alumnes que ho seran dels dos cursos A i B 
+
+Aqui he creado a uno mas... 
+
+![Captura de pantalla de 2025-03-21 12-57-24](https://github.com/user-attachments/assets/eef87462-462b-4717-8fe3-54e36eabf15b)
+
+NOTA: Per saber el contingut que hauria de tenir aquest fitxer, consulteu més abaix a la secció Usuaris.
+
+c) Elimina dos dels deu alumnes creats a l'apartat anterior fent servir l'opció Administració del lloc > Usuaris > Accions amb usuaris en bloc
+
+
+
