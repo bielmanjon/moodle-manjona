@@ -175,6 +175,17 @@ A bob.
 
 ![Captura de pantalla de 2025-03-21 14-19-12](https://github.com/user-attachments/assets/7b2fc934-3d1d-4719-8550-a2ab2593f450)
 
+## 8. Amb el professor afegeix contingut al curs A.
+
+ ENTRTAMOS A BOB
+![Captura de pantalla de 2025-03-21 14-26-56](https://github.com/user-attachments/assets/6e87fd6f-f53e-46eb-ab42-594eafb93b7b)
+
+AÑADIMOS TAREA 
+![Captura de pantalla de 2025-03-21 14-29-05](https://github.com/user-attachments/assets/5ba9cdd8-d00f-4f24-bae3-44aec59637c4)
+
+Y YA ESTARIA 
+![Captura de pantalla de 2025-03-21 14-29-32](https://github.com/user-attachments/assets/19b167e1-7d4e-480f-9a7d-fa517060cd38)
+
 
 
 
