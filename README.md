@@ -213,3 +213,9 @@ CREADA
 ![Captura de pantalla de 2025-03-27 14-15-23](https://github.com/user-attachments/assets/e67eaee9-250d-4ad1-92ca-86cc6ccf78f3)
 
 ![Captura de pantalla de 2025-03-27 14-20-21](https://github.com/user-attachments/assets/9c9d5ba6-e124-47a1-9033-9e552bf15eb5)
+
+Movemos a la derecha la NF 
+
+![Captura de pantalla de 2025-03-27 14-25-52](https://github.com/user-attachments/assets/f5620037-9fb6-48f7-bb3e-ee2c21d58938)
+
+![Captura de pantalla de 2025-03-27 14-25-45](https://github.com/user-attachments/assets/9b0963c6-a3b8-4f49-8c3e-93287b060c5d)
