@@ -202,5 +202,10 @@ Vemos la entrega
  
 ![Captura de pantalla de 2025-03-27 13-57-39](https://github.com/user-attachments/assets/f406466d-c6a4-496c-84a4-c6eebb04d254)
 
+## Continguts 
+
+ ## Crea una uf amb dos nf y con actividades 
+
+![Captura de pantalla de 2025-03-27 14-06-57](https://github.com/user-attachments/assets/693c6a93-15e8-4800-99b5-6228fde87f9d)
 
 
