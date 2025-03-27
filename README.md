@@ -188,10 +188,19 @@ Y YA ESTARIA
 
 ## 9. Entra amb un alumne i comprova que pots lliurar la tasca.
 
+Nos metemos desde estudiante
 
+![Captura de pantalla de 2025-03-27 12-41-24](https://github.com/user-attachments/assets/be744399-f9bb-42d4-a56b-299b8dd6dcfb)
 
+Vemos la entrega 
 
+![Captura de pantalla de 2025-03-27 13-57-26](https://github.com/user-attachments/assets/d29ecaa9-8b41-45fe-ac47-2189bc30e056)
 
+![Captura de pantalla de 2025-03-27 13-57-39](https://github.com/user-attachments/assets/4efb6006-78bf-4475-8c2d-b19bc3624135)
+
+ Ya estaria 
+ 
+![Captura de pantalla de 2025-03-27 13-57-39](https://github.com/user-attachments/assets/f406466d-c6a4-496c-84a4-c6eebb04d254)
 
 
 
