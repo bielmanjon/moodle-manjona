@@ -186,6 +186,8 @@ AÑADIMOS TAREA
 Y YA ESTARIA 
 ![Captura de pantalla de 2025-03-21 14-29-32](https://github.com/user-attachments/assets/19b167e1-7d4e-480f-9a7d-fa517060cd38)
 
+## 9. Entra amb un alumne i comprova que pots lliurar la tasca.
+
 
 
 
