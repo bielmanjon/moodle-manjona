@@ -211,3 +211,5 @@ Vemos la entrega
 CREADA
 
 ![Captura de pantalla de 2025-03-27 14-15-23](https://github.com/user-attachments/assets/e67eaee9-250d-4ad1-92ca-86cc6ccf78f3)
+
+![Captura de pantalla de 2025-03-27 14-20-21](https://github.com/user-attachments/assets/9c9d5ba6-e124-47a1-9033-9e552bf15eb5)
