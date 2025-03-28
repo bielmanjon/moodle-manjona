@@ -231,3 +231,28 @@ Movemos a la derecha la NF
 ![Captura de pantalla de 2025-03-27 14-33-22](https://github.com/user-attachments/assets/ddc1b756-2284-4524-bb76-ab41ec462d69)
 
 ### Aqui ya tenemos clonado el curso
+
+## Qualificacion
+
+Entramos desde alumno
+
+![Captura de pantalla de 2025-03-28 14-02-12](https://github.com/user-attachments/assets/de48cdd3-3e89-4714-b581-d4171b86aa9c)
+
+El foro funciona
+
+### Tascas
+
+![Captura de pantalla de 2025-03-28 14-02-17](https://github.com/user-attachments/assets/4892581a-af45-4c7e-9bb1-0ea1ea422e14)
+
+![Captura de pantalla de 2025-03-28 14-03-22](https://github.com/user-attachments/assets/48b2a6c7-e788-4150-b970-b2a86924e422)
+
+![Captura de pantalla de 2025-03-28 14-04-45](https://github.com/user-attachments/assets/fd240507-7678-4def-beef-e369d731b12a)
+
+![Captura de pantalla de 2025-03-28 14-06-58](https://github.com/user-attachments/assets/d9fd22ac-9288-4f19-89ef-d8b76b964ccd)
+
+ funciona bien.
+
+
+
+
+
