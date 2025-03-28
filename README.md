@@ -256,5 +256,12 @@ Entro desde profesor y le califico la tasca
 
 ![Captura de pantalla de 2025-03-28 14-10-57](https://github.com/user-attachments/assets/7cbe8f93-4a77-4822-8da3-170546066ac1)
 
+### Insignia 
 
+![Captura de pantalla de 2025-03-28 14-23-27](https://github.com/user-attachments/assets/ded7980d-8037-48c8-8fe5-6e04b4b960a9)
+
+![Captura de pantalla de 2025-03-28 14-23-48](https://github.com/user-attachments/assets/cf00238f-2f0b-46d5-9eb1-af75312b5615)
+
+
+Puesta!
 
