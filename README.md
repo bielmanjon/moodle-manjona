@@ -219,3 +219,15 @@ Movemos a la derecha la NF
 ![Captura de pantalla de 2025-03-27 14-25-52](https://github.com/user-attachments/assets/f5620037-9fb6-48f7-bb3e-ee2c21d58938)
 
 ![Captura de pantalla de 2025-03-27 14-25-45](https://github.com/user-attachments/assets/9b0963c6-a3b8-4f49-8c3e-93287b060c5d)
+
+## Clonar
+
+![Captura de pantalla de 2025-03-27 14-29-54](https://github.com/user-attachments/assets/4b285777-c65a-4267-a654-f0e955d1d2ee)
+
+![Captura de pantalla de 2025-03-27 14-32-35](https://github.com/user-attachments/assets/100032d9-c5af-4489-96ea-cc6ab298ebda)
+
+![Captura de pantalla de 2025-03-27 14-33-16](https://github.com/user-attachments/assets/75e145c1-3fa4-4d15-b7dd-bfe8b6288040)
+
+![Captura de pantalla de 2025-03-27 14-33-22](https://github.com/user-attachments/assets/ddc1b756-2284-4524-bb76-ab41ec462d69)
+
+### Aqui ya tenemos clonado el curso
