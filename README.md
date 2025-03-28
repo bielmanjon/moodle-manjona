@@ -252,7 +252,9 @@ El foro funciona
 
  funciona bien.
 
+Entro desde profesor y le califico la tasca
 
+![Captura de pantalla de 2025-03-28 14-10-57](https://github.com/user-attachments/assets/7cbe8f93-4a77-4822-8da3-170546066ac1)
 
 
 
