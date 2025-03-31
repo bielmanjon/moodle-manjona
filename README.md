@@ -265,3 +265,19 @@ Entro desde profesor y le califico la tasca
 
 Puesta!
 
+## Questionarios 
+
+Vamos  anuetro curso y creamos un cuestionario.
+
+![Captura de pantalla de 2025-03-31 14-17-20](https://github.com/user-attachments/assets/68eea1e7-d41d-4d14-84ec-9ea059e9efdf)
+
+
+He puesto algun requisito 
+
+
+
+![Captura de pantalla de 2025-03-31 14-17-23](https://github.com/user-attachments/assets/d7a434b8-6476-4887-82e0-3dac316b5419)
+
+Guardamos.
+
+![Captura de pantalla de 2025-03-31 14-17-27](https://github.com/user-attachments/assets/251e64ab-7b00-406f-8d65-55dc56f70d18)
