@@ -293,4 +293,40 @@ Una vez hemos creado todas las preguntas desde "Banco de preguntas" iremos a "Pr
 
 Aqui veremos que ya deja entrar al cuestionario de manera correcta!!!!
 
+## RESPONDER QUESTIONARIO 
+
+Entramos desde alumno 
+
+![Captura de pantalla de 2025-04-01 12-20-11](https://github.com/user-attachments/assets/a2d1303d-4666-4993-b99a-91bca4809895)
+
+Veremos que nos deja contestar 
+
+![Captura de pantalla de 2025-04-01 12-11-37](https://github.com/user-attachments/assets/b4888915-0cb2-4821-a26c-ff9524ffe106)
+
+![Captura de pantalla de 2025-04-01 12-20-14](https://github.com/user-attachments/assets/7f44f269-e9a6-4e55-8b4a-9b44517d7d5e)
+
+Lo contestamos...
+![Captura de pantalla de 2025-04-01 12-20-20](https://github.com/user-attachments/assets/7c91b975-6236-4788-a299-e8ccb9666a5e)
+![Captura de pantalla de 2025-04-01 12-20-35](https://github.com/user-attachments/assets/f9a283fc-899d-40a3-ba5f-e1ee4eecf123)
+### En proceso...
+
+Una vez finalizado sale lo siguiente 
+
+![Captura de pantalla de 2025-04-01 12-20-52](https://github.com/user-attachments/assets/27096550-9165-4a83-81f6-72f0c95a6f16)
+![Captura de pantalla de 2025-04-01 12-21-00](https://github.com/user-attachments/assets/c1b42a56-4309-4c36-ba98-e1146f3e1bb0)
+
+Ahora nos saldra la nota del "Questionario"
+
+![Captura de pantalla de 2025-04-01 12-21-13](https://github.com/user-attachments/assets/4677b43c-fd54-4e5e-b73e-7914840168fa)
+
+Entramos desde nuetra cuenta de profesor 
+![Captura de pantalla de 2025-04-01 12-24-41](https://github.com/user-attachments/assets/19cda5f6-5e0a-41a4-9335-1a31c89920d6)
+
+Vamos al examen de las mma 
+
+![Captura de pantalla de 2025-04-01 12-25-23](https://github.com/user-attachments/assets/329b3907-b3bd-43c9-a1e2-e852a994940a)
+
+Nuetro alumno saldra con la nota que haya sacado
+
+
 
