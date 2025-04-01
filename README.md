@@ -281,3 +281,16 @@ He puesto algun requisito
 Guardamos.
 
 ![Captura de pantalla de 2025-03-31 14-17-27](https://github.com/user-attachments/assets/251e64ab-7b00-406f-8d65-55dc56f70d18)
+
+
+![Captura de pantalla de 2025-04-01 10-55-21](https://github.com/user-attachments/assets/e8bbbefa-cfc0-43b9-829c-f53ab484f3ac)
+
+![Captura de pantalla de 2025-04-01 12-11-27](https://github.com/user-attachments/assets/7dcc4c44-2574-4115-bcbb-9ff338ada8a8)
+
+Una vez hemos creado todas las preguntas desde "Banco de preguntas" iremos a "Preguntas" y añadiremos de esa forma 
+
+![Captura de pantalla de 2025-04-01 12-11-37](https://github.com/user-attachments/assets/1d1f364a-4700-4054-aaf2-9c73b2773f7c)
+
+Aqui veremos que ya deja entrar al cuestionario de manera correcta!!!!
+
+
