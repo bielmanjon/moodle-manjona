@@ -267,7 +267,7 @@ Puesta!
 
 ## Questionarios 
 
-Vamos  anuetro curso y creamos un cuestionario.
+Vamos  a nuestro curso y creamos un cuestionario.
 
 ![Captura de pantalla de 2025-03-31 14-17-20](https://github.com/user-attachments/assets/68eea1e7-d41d-4d14-84ec-9ea059e9efdf)
 
